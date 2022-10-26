@@ -103,12 +103,12 @@ body {
 	padding: 10px 30px 35px;
 	display: block;
 	width: 375px;
-	background-color: #DEDCDC;
+	background-color: #7c2828;
 	box-shadow: 0 0 25px 0 #000;
 }
 
 .form h3 {
-	color:	#FFFFFF;
+	color:	#eec4c4;
   font-size: 40px;
 	margin: 10px 0 20px 0;
 }
@@ -221,7 +221,7 @@ input:focus {
 
 h1,h4{
 text-align: center;
-color:white;
+color:rgb(22, 29, 32);
 
 }
 
